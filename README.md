@@ -1,4 +1,15 @@
 ## Hi there 👋
+<!--
+![NaaQu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MQFEB07&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MQFEB07&layout=compact)](https://github.com/MQFEB07)
+-->
+<span>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MQFEB07&show_icons=true" />
+</span>
+<span>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MQFEB07&layout=compact&card_width=320" />
+</span>
 
 <!--
 **MQFEB07/MQFEB07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
